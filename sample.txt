@@ -3,5 +3,5 @@ Welcome to stash
 This is stash example
 Enjoy the day
 Have a wonderful day
-Have a wonderful day
+THE END
 
