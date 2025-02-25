@@ -1,6 +1,10 @@
 Hi There !!
 Welcome to stash
 This is stash example
+<<<<<<< Updated upstream
 Enjoy the day
 Have a wonderful day
 
+=======
+Have a wonderful day
+>>>>>>> Stashed changes
